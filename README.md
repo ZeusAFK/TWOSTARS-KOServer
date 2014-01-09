@@ -1,4 +1,4 @@
-TWOSTARS-KOServer
-=================
+snoxd-koserver
+==============
 
-last Source of twostars
+Snoxd community KO server project.
